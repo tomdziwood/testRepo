@@ -1,2 +1,3 @@
 To jest nowy plik
 Druga linia.
+Kolejna linia
