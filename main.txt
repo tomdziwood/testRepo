@@ -6,3 +6,4 @@ Jakaś inna linia
 Piąta linia
 Szósta linia
 Siódma linia
+Ósma linia w pliku.
