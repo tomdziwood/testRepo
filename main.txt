@@ -8,4 +8,3 @@ Szósta linia
 Siódma linia
 Ósma linia w pliku.
 Dziewiąta linia
-Dziesiąta linia X
